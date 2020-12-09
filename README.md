@@ -87,7 +87,7 @@ After some cleaning, (throwing out game without a description, category, or mech
 7. Common words removed during text preprocessing:
     * Game, point, board, player, rule, turn, tile, card, deck, hand, points, victory, win, lose, defeat
 8. TF-IDF Vectorization
-      > Number of Features: XXXX
+      > Number of Features: 97,565
   
 9.  **Analysis: kMeans clustering on the tokenized words (features) taken only from game descriptions**   
 
